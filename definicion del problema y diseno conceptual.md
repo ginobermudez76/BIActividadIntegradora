@@ -1,4 +1,4 @@
-# Plataforma de Inteligencia de Negocios para la predicción y gestión de brotes de enfermedades vectoriales (Dengue) en el dominio de la salud pública mediante integración de datos heterogéneos
+# Plataforma de Inteligencia de Negocios para la predicción y gestión de brotes de enfermedades vectoriales en el dominio de la salud pública mediante integración de datos heterogéneos
 
 ## 1. Abstract (Resumen)
 
